@@ -1,0 +1,108 @@
+# alias (séparés par ~) TAB français TAB anglais GB TAB allemand TAB espagnol ES TAB anglais US facultatif TAB espagnol MX facultatif
+FAVORITES~Favoris~Favourites	Favoris	Favourites	Favoriten	Favoritos	Favorites
+DI en cours	Demandes d'intervention en cours	Work requests in progress	Laufende Arbeitsanforderungen	Solicitudes de intervención en curso
+Recherche de documents dans la bibliothèque~Recherche des documents de la bibliothèque~Seek for documents in library~LOOK FOR DOCUMENT IN LIBRARY~Rechercher des documents à la bibliothèque~Rechercher des documents dans la bibliothèquec~Recherche de documents~Find documents in library~Voir les documents dans la bibliothèques	Rechercher des documents dans la bibliothèque	Search for documents in the library	Dokumente in der Bibliothek suchen	Buscar documentos en la biblioteca
+Demande d'achats en cours	Demandes d'achat en cours	Purchase requests in progress	Laufende Bestellanforderungen	Solicitudes de compra en curso
+Commande en cours	Commandes en cours	Purchase orders in progress	Laufende Bestellungen	Pedidos de compra en curso		Órdenes de compra en curso
+Commandes à solder	Commandes à clôturer	Purchase orders to close	Abzuschließende Bestellungen	Pedidos de compra por cerrar		Órdenes de compra por cerrar
+Nouvelle DI~Créer une demande d'intervention~Créer une Demande d'Intervention~Nouvelle demande d'intervention~Créer une DI	Nouvelle demande d'intervention	New work request	Neue Arbeitsanforderung	Nueva solicitud de intervención
+Nouvelle DI d'astreinte~Créer une demande d'astreinte~Nouvelle demande d'intervention en astreinte	Nouvelle demande d'intervention en astreinte	New on-call work request	Neue Arbeitsanforderung im Bereitschaftsdienst	Nueva solicitud de intervención de guardia
+DASHBOARD~Dashboard	Tableau de bord	Dashboard	Dashboard	Panel de control
+REPORTS~Reports	Rapports	Reports	Berichte	Informes		Reportes
+Etat des budgets	État des budgets	Budget status	Budgetübersicht	Estado de los presupuestos
+goto wiki	Accéder au wiki	Open the wiki	Wiki öffnen	Abrir la wiki
+Consulter les DI~Suivre les DI	Consulter les demandes d'intervention	View work requests	Arbeitsanforderungen anzeigen	Consultar solicitudes de intervención
+Recherche des commandes avec lignes à receptionner	Rechercher les commandes avec lignes à réceptionner	Find purchase orders with lines awaiting receipt	Bestellungen mit ausstehenden Lieferpositionen suchen	Buscar pedidos con líneas pendientes de recepción		Buscar órdenes con líneas pendientes de recepción
+Effectuer une sortie de stock	Effectuer une sortie de stock	Issue stock	Lagerentnahme buchen	Registrar una salida de almacén
+Consulter les mouvements de stock	Consulter les mouvements de stock	View stock movements	Lagerbewegungen anzeigen	Consultar movimientos de almacén
+Tableau de bord Buyer Labo Malteurop	Tableau de bord achats laboratoire Malteurop	Malteurop laboratory purchasing dashboard	Malteurop-Dashboard für den Laboreinkauf	Panel de compras de laboratorio de Malteurop
+Site de CARL Software	Site de CARL Software	CARL Software website	Website von CARL Software	Sitio web de CARL Software
+Seek for budgets~Rechercher des budgets	Rechercher des budgets	Search for budgets	Budgets suchen	Buscar presupuestos
+Seek for invoices~Rechercher des factures	Rechercher des factures	Search for invoices	Rechnungen suchen	Buscar facturas
+Seek for suppliers~Rechercher des fournisseurs	Rechercher des fournisseurs	Search for suppliers	Lieferanten suchen	Buscar proveedores
+Tableau de synthèse CFO	Tableau de synthèse de la direction financière	CFO overview	Übersicht der Finanzleitung	Resumen de la dirección financiera
+List of budgets~Liste des budgets	Liste des budgets	List of budgets	Budgetliste	Lista de presupuestos
+List of invoices~Liste des factures	Liste des factures	List of invoices	Rechnungsliste	Lista de facturas
+Report for received purchase orders	Rapport des commandes réceptionnées	Received purchase orders report	Bericht über eingegangene Bestellungen	Informe de pedidos recibidos		Reporte de órdenes de compra recibidas
+Stock movements	Mouvements de stock	Stock movements	Lagerbewegungen	Movimientos de almacén
+Ventilation of costs after cost centers	Répartition des coûts par centre de coût	Cost breakdown by cost centre	Kostenaufteilung nach Kostenstelle	Distribución de costes por centro de coste	Cost breakdown by cost center	Distribución de costos por centro de costo
+Budgets	Budgets	Budgets	Budgets	Presupuestos
+Factures	Factures	Invoices	Rechnungen	Facturas
+Fournisseurs	Fournisseurs	Suppliers	Lieferanten	Proveedores
+Bibliothèque	Bibliothèque	Library	Bibliothek	Biblioteca
+Dépenses achat consolidées sur budgets et centres de coût	Dépenses d'achat consolidées par budget et centre de coût	Purchase spending by budget and cost centre	Einkaufsausgaben nach Budget und Kostenstelle	Gastos de compra por presupuesto y centro de coste	Purchase spending by budget and cost center	Gastos de compra por presupuesto y centro de costo
+Liste des lignes de commandes réceptionnées non facturées	Lignes de commandes réceptionnées non facturées	Received purchase order lines not yet invoiced	Eingegangene, noch nicht berechnete Bestellpositionen	Líneas de pedidos recibidas sin facturar		Líneas de órdenes recibidas sin facturar
+MEF - Mouvements de stock	MEF - Mouvements de stock	MEF - Stock movements	MEF - Lagerbewegungen	MEF - Movimientos de almacén
+HILTI - FOLLOW-UP OF WORKED HOURS~HILTI - Follow-up of worked hours~HILTI - Suivi des temps réalisés	HILTI - Suivi des heures travaillées	HILTI - Worked hours tracking	HILTI - Erfassung der Arbeitsstunden	HILTI - Seguimiento de horas trabajadas
+HILTI - HOURS SPENT ON ON-CALL DUTY~HILTI - Amount of hours in on-call duty	HILTI - Heures d'astreinte	HILTI - On-call hours	HILTI - Bereitschaftsstunden	HILTI - Horas de guardia
+HILTI - TOP 3 OF CURATIVE MAINTENANCE~HILTI - Top 3 for curative maintenance	HILTI - Top 3 de la maintenance corrective	HILTI - Top 3 in corrective maintenance	HILTI - Top 3 der korrektiven Instandhaltung	HILTI - Top 3 de mantenimiento correctivo
+HILTI - VENTILATION OF WORKED HOURS SPENT ON WORK ORDERS	HILTI - Répartition des heures par intervention	HILTI - Hours breakdown by work order	HILTI - Stundenaufteilung nach Arbeitsauftrag	HILTI - Distribución de horas por orden de trabajo
+HILTI - WORK ORDERS DURING ON-CALL DUTY	HILTI - Interventions d'astreinte	HILTI - On-call work orders	HILTI - Arbeitsaufträge im Bereitschaftsdienst	HILTI - Órdenes de trabajo de guardia
+Tableau de bord demandeur Malteurop	Tableau de bord demandeur Malteurop	Malteurop requester dashboard	Malteurop-Dashboard für Anfordernde	Panel de solicitantes de Malteurop
+Consulter le parc équipements	Consulter le parc d'équipements	View equipment assets	Anlagenbestand anzeigen	Consultar el parque de equipos
+Recherche des demandes d'achats~Rechercher des demandes d'achat	Rechercher des demandes d'achat	Search for purchase requests	Bestellanforderungen suchen	Buscar solicitudes de compra
+My work order request waiting to be done~Mes interventions en attente d'exécution	Mes demandes d'intervention en attente d'exécution	My work requests awaiting execution	Meine ausstehenden Arbeitsanforderungen	Mis solicitudes de intervención pendientes de ejecución
+Liste des OT en attente de clôture	Ordres de travail en attente de clôture	Work orders awaiting closure	Arbeitsaufträge vor Abschluss	Órdenes de trabajo pendientes de cierre
+Planification des ordres de travail~Planification des interventions	Planification des interventions	Work order scheduling	Arbeitsauftragsplanung	Planificación de órdenes de trabajo
+HILTI - 90% CARL data reliability~HILTI - 90% Fiabilité données CARL	HILTI - Fiabilité des données CARL : 90 %	HILTI - CARL data reliability: 90%	HILTI - Zuverlässigkeit der CARL-Daten: 90 %	HILTI - Fiabilidad de datos CARL: 90 %		HILTI - Confiabilidad de datos CARL: 90 %
+HILTI - On-call duty follow-up	HILTI - Suivi des astreintes	HILTI - On-call duty tracking	HILTI - Übersicht der Bereitschaftsdienste	HILTI - Seguimiento de guardias
+HILTI - Ventilation of worked hours	HILTI - Répartition des heures travaillées	HILTI - Worked hours breakdown	HILTI - Aufteilung der Arbeitsstunden	HILTI - Distribución de horas trabajadas
+Consulter les interventions non-soldées	Consulter les interventions non clôturées	View open work orders	Offene Arbeitsaufträge anzeigen	Consultar órdenes de trabajo abiertas
+Lancement des plans préventifs	Lancement des plans de maintenance préventive	Launch preventive maintenance plans	Präventive Instandhaltungspläne starten	Lanzar planes de mantenimiento preventivo
+HILTI - Nombre d'heures par type d'astreinte (/mois)	HILTI - Heures par type d'astreinte et par mois	HILTI - Monthly hours by on-call duty type	HILTI - Monatsstunden nach Bereitschaftsart	HILTI - Horas mensuales por tipo de guardia
+HILTI - Répartition des interventions (/nature, en heures)	HILTI - Heures d'intervention par nature	HILTI - Work order hours by activity type	HILTI - Auftragsstunden nach Tätigkeitsart	HILTI - Horas de trabajo por tipo de actividad
+HILTI - Suivi des déplacement d'astreinte	HILTI - Suivi des déplacements d'astreinte	HILTI - On-call travel tracking	HILTI - Fahrten im Bereitschaftsdienst	HILTI - Seguimiento de desplazamientos de guardia
+HILTI - Top 3 des équipements	HILTI - Top 3 des équipements	HILTI - Top 3 equipment assets	HILTI - Top 3 der Anlagen	HILTI - Top 3 de equipos
+MEF - Interventions créées à partir d'une évaluation P1	MEF - Interventions issues d'une évaluation P1	MEF - Work orders from a P1 assessment	MEF - Arbeitsaufträge aus einer P1-Bewertung	MEF - Órdenes de trabajo de una evaluación P1
+Malteurop-Tableau de bord maintenance DIRECTEUR USINE US	Malteurop - Tableau de bord du directeur d'usine US	Malteurop - US plant director dashboard	Malteurop - Dashboard der US-Werksleitung	Malteurop - Panel del director de planta US
+MEF - Liste des budgets	MEF - Liste des budgets	MEF - List of budgets	MEF - Budgetliste	MEF - Lista de presupuestos
+Nouvelle demande d'achat	Nouvelle demande d'achat	New purchase request	Neue Bestellanforderung	Nueva solicitud de compra
+MALTEUROP - DASHBOARD PRODUCTION	Malteurop - Tableau de bord production	Malteurop - Production dashboard	Malteurop - Produktionsdashboard	Malteurop - Panel de producción
+On-call duty follow-up	Suivi des astreintes	On-call duty tracking	Übersicht der Bereitschaftsdienste	Seguimiento de guardias
+Recherche des projets	Rechercher des projets	Search for projects	Projekte suchen	Buscar proyectos
+Interventions créés à partir d'une évaluation P1	Interventions issues d'une évaluation P1	Work orders from a P1 assessment	Arbeitsaufträge aus einer P1-Bewertung	Órdenes de trabajo de una evaluación P1
+Dashboard SUPER ADMIN	Tableau de bord super-administrateur	Super administrator dashboard	Dashboard für die Superadministration	Panel de superadministrador
+Rapports favoris	Rapports favoris	Favourite reports	Bevorzugte Berichte	Informes favoritos	Favorite reports	Reportes favoritos
+(EN TEST)  Indicateurs fiabilité données CARL	(EN TEST) Fiabilité des données CARL	(IN TEST) CARL data reliability	(IM TEST) Zuverlässigkeit der CARL-Daten	(EN PRUEBA) Fiabilidad de datos CARL		(EN PRUEBA) Confiabilidad de datos CARL
+(EN TEST)  Inventaire	(EN TEST) Inventaire	(IN TEST) Stocktake	(IM TEST) Inventur	(EN PRUEBA) Inventario	(IN TEST) Inventory count
+(EN TEST)  Suivi des temps	(EN TEST) Suivi des temps	(IN TEST) Time tracking	(IM TEST) Zeiterfassung	(EN PRUEBA) Seguimiento de tiempos
+Interventions avec occupation tech > 8h	Interventions avec temps technicien > 8h	Work orders with technician time > 8h	Arbeitsaufträge mit Technikerzeit > 8h	Órdenes de trabajo con tiempo técnico > 8h
+Liste des articles créés	Liste des articles créés	List of created items	Liste der angelegten Artikel	Lista de artículos creados
+MEF - Suivi des déplacement d'astreinte	MEF - Suivi des déplacements d'astreinte	MEF - On-call travel tracking	MEF - Fahrten im Bereitschaftsdienst	MEF - Seguimiento de desplazamientos de guardia
+Répartition des interventions (/nature, en heures)	Heures d'intervention par nature	Work order hours by activity type	Auftragsstunden nach Tätigkeitsart	Horas de trabajo por tipo de actividad
+Top 3 équipements (MAINT CORR)	Top 3 des équipements en maintenance corrective	Top 3 equipment assets in corrective maintenance	Top 3 der Anlagen in korrektiver Instandhaltung	Top 3 de equipos en mantenimiento correctivo
+DASHBOARD SUPER ADMIN AU	Tableau de bord super-administrateur AU	AU super administrator dashboard	Dashboard für die Superadministration AU	Panel de superadministrador AU
+CARL - List of last items created	CARL - Liste des derniers articles créés	CARL - List of recently created items	CARL - Liste der zuletzt angelegten Artikel	CARL - Lista de artículos creados recientemente
+HILTI - Inventory	HILTI - Inventaire	HILTI - Stocktake	HILTI - Inventur	HILTI - Inventario	HILTI - Inventory count
+Créer une intervention	Créer une intervention	Create a work order	Arbeitsauftrag anlegen	Crear una orden de trabajo
+Voir les interventions en cours	Consulter les interventions en cours	View work orders in progress	Laufende Arbeitsaufträge anzeigen	Consultar órdenes de trabajo en curso
+Entrer un commentaire sur une intervention	Saisir un commentaire sur une intervention	Add a comment to a work order	Kommentar zu einem Arbeitsauftrag erfassen	Añadir un comentario a una orden de trabajo		Agregar un comentario a una orden de trabajo
+Voir l'arborescence équipement	Consulter l'arborescence des équipements	View the equipment tree	Anlagenstruktur anzeigen	Consultar el árbol de equipos
+Entrer mes occupations sur une intervention	Saisir mes temps sur une intervention	Record my time on a work order	Meine Zeiten für einen Arbeitsauftrag erfassen	Registrar mi tiempo en una orden de trabajo
+Réapprovisionnement	Réapprovisionnement	Replenishment	Nachschub	Reaprovisionamiento		Reabastecimiento
+Réception	Réception	Receipt	Wareneingang	Recepción
+Entrée	Entrée de stock	Stock receipt	Lagerzugang	Entrada de almacén
+Sortie	Sortie de stock	Stock issue	Lagerentnahme	Salida de almacén
+Inventaire	Inventaire	Stocktake	Inventur	Inventario	Inventory count
+Recherche des réservations	Rechercher des réservations	Search for reservations	Reservierungen suchen	Buscar reservas
+Tableau de bord  magasinier malteurop	Tableau de bord magasinier Malteurop	Malteurop warehouse dashboard	Malteurop-Lagerdashboard	Panel de almacén de Malteurop
+Articles non sortis depuis ...	Articles sans sortie depuis ...	Items with no stock issue since ...	Artikel ohne Lagerentnahme seit ...	Artículos sin salida desde ...
+Répartition ABC des articles par consommation annuelle	Analyse ABC des articles par consommation annuelle	ABC analysis of items by annual consumption	ABC-Analyse der Artikel nach Jahresverbrauch	Análisis ABC de artículos por consumo anual
+Valeur du stock par famille	Valeur du stock par famille	Stock value by item family	Lagerwert nach Artikelfamilie	Valor de existencias por familia de artículos		Valor de inventario por familia de artículos
+PORTAIL BUYER-MALTEUROP	Portail acheteur Malteurop	Malteurop buyer portal	Malteurop-Einkaufsportal	Portal de compras de Malteurop
+PORTAIL LABO-MALTEUROP	Portail laboratoire Malteurop	Malteurop laboratory portal	Malteurop-Laborportal	Portal de laboratorio de Malteurop
+Portail CFO	Portail de la direction financière	CFO portal	Portal der Finanzleitung	Portal de la dirección financiera
+Portail CONTROLLING	Portail contrôle de gestion	Management accounting portal	Controlling-Portal	Portal de control de gestión
+Malteurop-Portail directeur TECHNIQUE	Malteurop - Portail du directeur technique	Malteurop - Technical director portal	Malteurop - Portal der technischen Leitung	Malteurop - Portal del director técnico
+Portail FINANCE MANAGER	Portail responsable financier	Finance manager portal	Portal der Finanzverantwortlichen	Portal del responsable financiero
+Portail FINANCE	Portail finance	Finance portal	Finanzportal	Portal de finanzas
+LEAD_OPERATOR	Portail chef d'équipe de production	Lead operator portal	Portal der Produktionsschichtleitung	Portal del jefe de turno de producción
+MAINTENANCE MANAGER~Malteurop-Portail Responsable maintenance	Portail responsable maintenance Malteurop	Malteurop maintenance manager portal	Malteurop-Portal der Instandhaltungsleitung	Portal del responsable de mantenimiento de Malteurop
+PORTAIL DEMANDEUR	Portail demandeur	Requester portal	Anforderungsportal	Portal del solicitante
+PLANT DIRECTOR	Portail directeur d'usine	Plant director portal	Portal der Werksleitung	Portal del director de planta
+PRODUCTION MANAGER	Portail responsable production	Production manager portal	Portal der Produktionsleitung	Portal del responsable de producción
+Portail safety	Portail sécurité	Safety portal	Sicherheitsportal	Portal de seguridad
+MALTEUROP SUPER-ADMIN PORTAIL	Malteurop - Portail super-administrateur	Malteurop - Super administrator portal	Malteurop - Portal der Superadministration	Malteurop - Portal de superadministrador
+SUPER ADMIN US	Portail super-administrateur US	US super administrator portal	Portal der Superadministration US	Portal de superadministrador US
+Portail  Technicien Malteurop	Portail technicien Malteurop	Malteurop technician portal	Malteurop-Technikerportal	Portal del técnico de Malteurop
+Portail  Magasinier MALTEUROP	Portail magasinier Malteurop	Malteurop warehouse portal	Malteurop-Lagerportal	Portal de almacén de Malteurop

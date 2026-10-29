@@ -1,0 +1,8 @@
+{
+  "name": "carl-traduction",
+  "version": "1.3.0",
+  "private": true,
+  "description": "Correction locale des traductions des écrans d'accueil CARL",
+  "scripts": { "audit": "node carl.cjs --audit", "corriger": "node carl.cjs --apply", "test": "node --test tests.cjs", "test:integration": "node --test tests-navigation.cjs" },
+  "dependencies": { "playwright": "1.60.0" }
+}
